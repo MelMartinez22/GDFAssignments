@@ -1,0 +1,19 @@
+name: atmo5331
+channels:
+- conda-forge
+dependencies:
+- python=3.12
+- jupyterlab
+- numpy
+- scipy
+- pandas
+- xarray
+- dask
+- netcdf4
+- matplotlib
+- ipympl
+- cartopy
+- pyproj
+- pip
+- arm_pyart
+- metpy
